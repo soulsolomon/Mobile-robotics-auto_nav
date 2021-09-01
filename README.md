@@ -13,7 +13,7 @@ waffel model especially implementing SLAM. One best practice I’ve learned in t
 to set the source with model/setup.bash eventually avoiding to enter model of the robot
 several times.
 
-<p align="cneter">
+<p align="center">
   <img width="460" height="300" src="./robot2.png">
   <img width="460" height="300" src="./robot.png">
 </p>
