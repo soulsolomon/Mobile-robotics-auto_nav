@@ -43,3 +43,10 @@ figure two:-
 
 # Author
 **Solomon G**
+
+## Acknowledgments
+Special thanks to resources on https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/, 
+
+## Open Source License Acknowledgement
+* Univestiy West - Part of school project
+
