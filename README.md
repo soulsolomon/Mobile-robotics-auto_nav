@@ -19,7 +19,7 @@ several times.
 </p>
 
 <p align="center">
-  <img width="700" height="800" src="./turtlebot-3.jpg">
+  <img width="300" height="300" src="./TurtleBot3_Burger.png">
 </p>
 
 ## Perform navigation in Gazebo using MAT-LAB
