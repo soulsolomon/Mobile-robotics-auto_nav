@@ -22,6 +22,10 @@ several times.
   <img width="300" height="300" src="./TurtleBot3_Burger.png">
 </p>
 
+![newPRM](https://user-images.githubusercontent.com/18420937/132261528-b2c909d7-9676-4683-bef9-9ce374b50f6e.png)
+![connectiondistace3](https://user-images.githubusercontent.com/18420937/132261536-ef7655c7-baa6-4a3f-b518-962b006e5df3.png)
+
+
 ## Perform navigation in Gazebo using MAT-LAB
 
 A simple navigation Mat-lab-application is used to navigate through the maze. This is
