@@ -22,9 +22,12 @@ several times.
   <img width="300" height="300" src="./TurtleBot3_Burger.png">
 </p>
 
+<p align="center">
+  <img width="460" height="300" src="./connectiondistace3.png">
+  <img width="460" height="300" src="./robot.png">
+</p>
 
-![newPRM](https://user-images.githubusercontent.com/18420937/132261528-b2c909d7-9676-4683-bef9-9ce374b50f6e.png) 
-![connectiondistace3](https://user-images.githubusercontent.com/18420937/132261536-ef7655c7-baa6-4a3f-b518-962b006e5df3.png)
+
 
 ## Perform navigation in Gazebo using MAT-LAB
 
