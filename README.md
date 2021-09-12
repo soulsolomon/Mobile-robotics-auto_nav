@@ -24,6 +24,8 @@ several times.
 
 <p align="center">
   <img width="460" height="300" src="./connectiondistace3.png">
+</p>
+<p align="center">
   <img width="460" height="300" src="./robot.png">
 </p>
 
