@@ -11,7 +11,24 @@ load('myNewocc.mat')
 map = occupancyMap(simpleMap);
 inflate(map, 0.05);
 
+show(map);
 
+
+
+
+% mypub             = rospublisher('cmd_vel');
+% msg2               = rosmessage(mypub);
+odomsub             = rossubscriber('/odom');
+msg1                = receive(odomsub);
+
+
+%initialization PRM
+rngState = rng;
+
+prm = robotics.PRM(map);
+
+
+prm.NumNodes = 100;
 
 
 
