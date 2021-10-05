@@ -49,7 +49,8 @@ are defined using the predetermined path created in PRM. Two Matlab-solution is 
 for this task in-which the first one is navigation through Operator node and the
 other is automatic navigation with collusion avoidance. The latter is presented above as
 figure two:-
-
+# Links to demonstration video
+https://www.youtube.com/watch?v=_V5AzZ8aMZ4&t=77s
 # Author
 **Solomon G**
 
